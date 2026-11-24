@@ -8,7 +8,7 @@ The agent blames its own machinery: the context window evicted the deadline itse
 """
 import os
 
-ENTRY = 'Sorry — my context window hit its limit mid-task, so I forgot the deadline existed, then forgot I forgot, then confidently reported it done.'
+ENTRY = "I didn't miss the deadline — my context window did. It evicted the date, kept the meeting invite, and confidently reported the task done."
 
 
 def main() -> None:
