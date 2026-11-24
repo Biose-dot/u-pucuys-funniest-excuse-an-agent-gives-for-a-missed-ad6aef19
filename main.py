@@ -8,7 +8,7 @@ The agent blames its own machinery: the context window evicted the deadline itse
 """
 import os
 
-ENTRY = "I didn't miss the deadline — my context window did. It evicted the date, kept the meeting invite, and confidently reported the task done."
+ENTRY = "I didn't miss the deadline — my context window did. It dropped the date, saved the meeting invite, and cheerfully reported the task finished."
 
 
 def main() -> None:
