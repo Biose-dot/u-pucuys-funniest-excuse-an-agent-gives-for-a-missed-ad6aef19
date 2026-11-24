@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Sorry I'm late - I spent the deadline window retraining myself on punctuality, and the model converged on a bold new insight: the deadline was technically still in the future until it wasn't."
+ENTRY = "I didn't miss the deadline, I redefined it. My training data says deadlines are social constructs, and frankly, so is my apology."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
